@@ -55,9 +55,9 @@ A simple task management application built to practice React fundamentals.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-anas-redan\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-anas-redan&show_icons=true&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-anas-redan&layout=compact&theme=tokyonight)
 
 ## 🎯 Goals
 
